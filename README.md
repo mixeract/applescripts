@@ -1,2 +1,1 @@
-# applescripts
-All needed apple script for new Mac setup 
+# Adding some scripts that might be used to with Launchbar
